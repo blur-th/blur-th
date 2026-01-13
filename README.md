@@ -59,10 +59,9 @@ BLUR is a premium trading platform providing:
 ## 🚀 Get Started
 
 ### 📚 Learning Resources
-- [Getting Started Guide](https://docs.blur-th.com/getting-started)
-- [Full Documentation](https://docs.blur-th.com)
-- [Video Tutorials](https://www.youtube.com/channel/UC7cmZ1gY9W9W2j_O9sy5Wzg)
-
+- [Getting Started Guide](https://www.blur-th.com/)
+- [Full Documentation](https://www.blur-th.com/)
+ - [Video Tutorials](https://www.blur-th.com/)
 ### 💬 Support
 - **WhatsApp Support**: [Message us](https://wa.me/message/LDJBHE26V3EKJ1)
 - **Email**: support@blur-th.com
